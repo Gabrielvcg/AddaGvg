@@ -2,6 +2,8 @@ package iterativos;
 
 import java.util.stream.IntStream;
 
+
+
 public class SumaMultiplos {
 	
 	
@@ -10,6 +12,7 @@ public class SumaMultiplos {
 		while(a<b) {
 			if(a%m==0) {
 				ac=ac+a;
+				
 			}
 			a++;
 		}
