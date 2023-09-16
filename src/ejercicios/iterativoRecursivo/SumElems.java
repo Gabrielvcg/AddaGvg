@@ -1,4 +1,4 @@
-package iterativos;
+package iterativoRecursivo;
 
 import java.util.List;
 import java.util.Set;

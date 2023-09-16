@@ -1,4 +1,4 @@
-package iterativos;
+package iterativoRecursivo;
 
 import java.util.function.Predicate;
 import java.util.function.UnaryOperator;

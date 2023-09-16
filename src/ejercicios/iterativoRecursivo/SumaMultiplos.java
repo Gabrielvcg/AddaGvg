@@ -1,4 +1,4 @@
-package iterativos;
+package iterativoRecursivo;
 
 import java.util.stream.IntStream;
 
